@@ -23,11 +23,6 @@ Hi! I'm **Eslam Ahmed**, a passionate software engineering student with strong s
 
 ---
 
-## 🌐 Live Preview
-
-👉 [View Portfolio Online](https://your-portfolio-link.com)  
-_Replace with your actual live URL or GitHub Pages link._
-
 ---
 
 ## ✨ Features
