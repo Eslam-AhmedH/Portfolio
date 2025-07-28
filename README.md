@@ -22,7 +22,8 @@ Welcome to my personal portfolio repository! This project showcases my backgroun
 Hi! I'm **Eslam Ahmed**, a passionate software engineering student with strong skills in C/C++, Laravel, and front-end technologies. This portfolio highlights my journey, technical strengths, and hands-on projects.
 
 ---
-
+👉 [View Portfolio Online](https://eslam-ahmedh.github.io/Portfolio/)  
+_Replace with your actual live URL or GitHub Pages link._
 ---
 
 ## ✨ Features
@@ -43,16 +44,6 @@ Hi! I'm **Eslam Ahmed**, a passionate software engineering student with strong s
 - Font Awesome / Bootstrap Icons
 
 ---
-
-## 🖼 Screenshots
-
-> Add screenshot images in `/assets/screenshots` and include links below
-
-![Homepage](assets/screenshots/homepage.png)
-![Projects Section](assets/screenshots/projects.png)
-
----
-
 ## 🚀 How to Use
 
 ### Clone & Run Locally
